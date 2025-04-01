@@ -5,7 +5,7 @@
 
 #define MAX 100
 
-// stack 기능 코드
+// stack 기능 코드 생략
 
 int main() {
     Stack s;
