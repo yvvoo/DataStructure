@@ -111,7 +111,7 @@ int getStudentScore(int scores[], int size, int studentNumber) {
     if (studentNumber >= 1 && studentNumber <= size) {
         return scores[studentNumber - 1];
     } else {
-        return -1; // 유효하지 않은 학생 번호
+        return -1; 
     }
 }
 
